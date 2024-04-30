@@ -1,6 +1,8 @@
 # 💫 About Me:
-💬 Hi👋, I am Rahul<br>⚡ I am passionate about AI and ML, utilizing them to analyze diverse data sets.<br>🌱 I am eager to learn and excel in data analytics, AI, ML, and full stack development.<br>🔭 I am enthusiastic about continuous learning and staying up-to-date with the latest technological advancements.
 
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+
+💬 Hi👋, I am Rahul<br>⚡ I am passionate about AI and ML, utilizing them to analyze diverse data sets.<br>🌱 I am eager to learn and excel in data analytics, AI, ML, and full stack development.<br>🔭 I am enthusiastic about continuous learning and staying up-to-date with the latest technological advancements.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahul_92813) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-b-663b55211) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RAHULGANTH4) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mrherotechspot3831) 
