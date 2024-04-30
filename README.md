@@ -4,11 +4,11 @@
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-💬 Here's my [portfolio](https://rahulbalaji.netlify.app/)                                                 
-🌱 I am passionated Software Development Engineer
-🔭 My tech expertise in DSA, Full Stack Web Development, DS, AI & ML 
-⚡ Tech Enthusiast
-🤔 I’m looking for support with placements in MAANG
+💬 Here's my [portfolio](https://rahulbalaji.netlify.app/)  </br>                                               
+🌱 I am passionated Software Development Engineer </br>
+🔭 My tech expertise in DSA, Full Stack Web Development, DS, AI & ML </br> 
+⚡ Tech Enthusiast </br>
+🤔 I’m looking for support with placements in MAANG </br>
   
 🌐 Socials:
   
