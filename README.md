@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Rahul Balaji
+## Hi there 👋 It's me RAHUL BALAJI
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
@@ -33,7 +33,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=rahul13289&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### LeetCode
+### ⚡ LeetCode
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/rahul_13289?ext=contest&theme=dark)](https://leetcode.com/rahul_13289)
 
