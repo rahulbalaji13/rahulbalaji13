@@ -7,7 +7,9 @@
 🔭 My tech expertise in DSA, Full Stack Web Development, DS, AI & ML </br> 
 ⚡ Tech Enthusiast </br>
 🤔 I’m looking for support with placements in MAANG </br>
-  
+- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCT4rixFOVCqrUAknQY0XlVg)
+- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCT4rixFOVCqrUAknQY0XlVg)
+
 🌐 Socials: </br>
 <br/> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahul_92813) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-b-663b55211) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RAHULGANTH4) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mrherotechspot3831) 
 
