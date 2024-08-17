@@ -36,9 +36,16 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=rahul13289&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+
+
 ### ⚡ LeetCode
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/rahul_13289?ext=contest&theme=dark)](https://leetcode.com/rahul_13289)
+
+### ⚡ CodeChef
+
+![rahul_13289](https://github.com/user-attachments/assets/23c14c18-f2c3-4d16-8789-60b797ed0da6)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rahul13289) 
