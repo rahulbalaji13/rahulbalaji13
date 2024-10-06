@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me RAHUL BALAJI
 
-<img align="right" width="350" height="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" width="350" height="350" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 💬 Here's my [PORTFOLIO](https://rahulbalaji.netlify.app/)      
 💻 Buy industry based projects from me through  [![Fiverr](https://img.shields.io/badge/Fiverr-%2300b22d.svg?logo=fiverr&logoColor=white)](https://www.fiverr.com/s/DDwoZD) </br>
