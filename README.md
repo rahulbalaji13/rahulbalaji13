@@ -35,15 +35,19 @@
 [![](https://visitcount.itsvg.in/api?id=rahul13289&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-
-
-
-
 ### ⚡ LeetCode
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/rahul_13289?ext=contest&theme=dark)](https://leetcode.com/rahul_13289)
 
 
+### ✪  Certification
+
+---
+![aws-certified-cloud-practitioner](https://github.com/user-attachments/assets/c63d8278-9582-4a6c-85d1-575038e13822)
+
+
+
+---
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rahul13289) 
 
