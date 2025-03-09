@@ -8,7 +8,7 @@
 🤔 I’m looking for support with placements in MAANG </br>
 
 🌐 Socials: </br>
-<br/> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-b-663b55211) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RAHULGANTH4)  
+<br/> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-b-663b55211) 
 
 😄 Pronouns: Techie
 
