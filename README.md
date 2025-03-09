@@ -1,11 +1,9 @@
 ## Hi there 👋 It's me RAHUL BALAJI
 
 <img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-
-💬 Here's my [PORTFOLIO](https://rahulbalaji.netlify.app/)      
-💻 Buy industry based projects from me through  [![Fiverr](https://img.shields.io/badge/Fiverr-%2300b22d.svg?logo=fiverr&logoColor=white)](https://www.fiverr.com/s/DDwoZD) </br>
+      
 🌱 I am passionated Software Development Engineer </br>
-🔭 My tech expertise in DSA, Full Stack Web Development, DS, AI & ML </br> 
+🔭 My technical expertise includes Data Structures & Algorithms, Full-Stack Web Development, Artificial Intelligence & Machine Learning, and Data Science. </br> 
 ⚡ Tech Enthusiast </br>
 🤔 I’m looking for support with placements in MAANG </br>
 
