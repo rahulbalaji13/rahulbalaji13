@@ -3,7 +3,7 @@
 <img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
       
 🌱 I am passionated Software Development Engineer </br>
-🔭 My technical expertise includes Data Structures & Algorithms, Full-Stack Web Development, Artificial Intelligence & Machine Learning, and Data Science. </br> 
+🔭 My tech expertise includes DSA, Full-Stack Web Development, AI & ML, and DS. </br> 
 ⚡ Tech Enthusiast </br>
 🤔 I’m looking for support with placements in MAANG </br>
 
