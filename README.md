@@ -35,13 +35,14 @@
 
 ### ⚡ LeetCode
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/rahul_13289?ext=contest&theme=dark)](https://leetcode.com/rahul_13289)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/rahul_13289?ext=contest&theme=dark)](https://leetcode.com/rahulbalaji13)
 
 
 ### ✪  Certification
 
 ---
 ![aws-certified-cloud-practitioner](https://github.com/user-attachments/assets/c63d8278-9582-4a6c-85d1-575038e13822)
+
 
 
 
