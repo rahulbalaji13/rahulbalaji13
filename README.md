@@ -50,5 +50,6 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rahulbalaji13) 
 
-  
+  ![bmc_qr (1)](https://github.com/user-attachments/assets/9d4e9725-db09-4138-990f-3326256ba436)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
