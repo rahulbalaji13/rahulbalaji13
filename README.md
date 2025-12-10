@@ -40,7 +40,7 @@
 
 ### ⚡ LeetCode
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/rahulbalaji13?ext=contest&theme=dark)](https://leetcode.com/rahulbalaji13)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/rahulbalaji2002?ext=contest&theme=dark)](https://leetcode.com/u/rahulbalaji2002)
 
 
 ### ✪  Certification
