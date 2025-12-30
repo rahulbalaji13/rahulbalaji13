@@ -53,4 +53,16 @@
   ![bmc_qr (1)](https://github.com/user-attachments/assets/9d4e9725-db09-4138-990f-3326256ba436)
 
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulbalaji13" alt="rahulbalaji13" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulbalaji13&show_icons=true&locale=en&layout=compact" alt="rahulbalaji13" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulbalaji13&show_icons=true&locale=en" alt="rahulbalaji13" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulbalaji13&" alt="rahulbalaji13" /></p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
