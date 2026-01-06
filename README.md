@@ -17,15 +17,13 @@
 
 # 📊 GitHub Stats: 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulbalaji13&" alt="rahulbalaji13" /></p>
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=rahulbalaji13&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulbalaji13&show_icons=true&theme=tokyonight&hide_border=false)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbalaji13&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
+![GitHub Streak](https://streak-stats.demolab.com?user=rahulbalaji13&theme=tokyonight&hide_border=false)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulbalaji13&theme=default" alt="GitHub Streak" />
-
-<img src="https://profile-counter.glitch.me/rahulbalaji13/count.svg?" alt="visitors count" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbalaji13&layout=compact&theme=tokyonight&hide_border=false)
 
 ## 🏆 GitHub Trophies 
 
