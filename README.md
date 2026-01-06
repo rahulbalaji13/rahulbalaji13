@@ -17,15 +17,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulbalaji13&show_icons=true&theme=tokyonight&hide_border=false)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=rahulbalaji13&theme=tokyonight&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbalaji13&layout=compact&theme=tokyonight&hide_border=false)
-
-## 🏆 GitHub Trophies 
-
-<img src="https://github-profile-trophy.vercel.app/?username=rahulbalaji13" alt="trophy" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulbalaji13&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 
