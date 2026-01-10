@@ -221,9 +221,23 @@ me.say_hi()
 <br>Git
 </td>
 <td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
+<br>Docker
+</td>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="55" height="55" />
+<br>Kubernetes
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="55" height="55" />
+<br>Jenkins
+</td>
+<td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="55" height="55" />
 <br>Anaconda
 </td>
+</tr>
+<tr>
 <td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" width="55" height="55" />
 <br>Apache
@@ -231,6 +245,18 @@ me.say_hi()
 <td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="55" height="55" />
 <br>Canva
+</td>
+<td align="center" width="100">
+<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub Copilot" width="55" height="55" style="background: white; border-radius: 50%; padding: 5px;" />
+<br>Copilot
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="CI/CD" width="55" height="55" />
+<br>CI/CD
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" alt="GenAI" width="55" height="55" />
+<br>GenAI
 </td>
 </tr>
 </table>
@@ -267,7 +293,7 @@ me.say_hi()
   <table>
     <tr>
       <td width="50%">
-        <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100%">
+        <img src="https://raw.githubusercontent.com/rahulbalaji13/rahulbalaji13/refs/heads/main/leetcode-knight-badge.png" width="100%" alt="LeetCode Knight Badge">
       </td>
       <td width="50%">
         <img src="https://leetcard.jacoblin.cool/rahulbalaji13?theme=dark&font=Ubuntu&ext=heatmap&border=0&radius=10" alt="LeetCode Stats"/>
