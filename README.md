@@ -293,7 +293,7 @@ me.say_hi()
   <table>
     <tr>
       <td width="50%">
-        <img src="https://raw.githubusercontent.com/rahulbalaji13/rahulbalaji13/refs/heads/main/leetcode-knight-badge.png" width="100%" alt="LeetCode Knight Badge">
+        <img width="739" height="683" alt="kni" src="https://github.com/user-attachments/assets/f7d67464-72ac-40a8-b06e-fb756f7d4bb5" />
       </td>
       <td width="50%">
         <img src="https://leetcard.jacoblin.cool/rahulbalaji13?theme=dark&font=Ubuntu&ext=heatmap&border=0&radius=10" alt="LeetCode Stats"/>
@@ -318,11 +318,11 @@ me.say_hi()
 <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </td>
 <td width="50%" align="center">
-<img src="https://techstack-generator.vercel.app/google-icon.svg" width="65" height="65" alt="GCP" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="AWS" 
 <br><br>
-<strong>Google Cloud Certified</strong>
+<strong>AWS Well-Architected Proficient</strong>
 <br><br>
-<img src="https://img.shields.io/badge/GCP-Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </td>
 </tr>
 </table>
