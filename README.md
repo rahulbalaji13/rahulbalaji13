@@ -395,8 +395,6 @@ me.say_hi()
 
 **⭐ Star my repositories if you find them useful!**
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=rahulbalaji13&label=Profile%20Views&color=12&icon=5&pretty=true)
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
