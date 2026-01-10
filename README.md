@@ -331,11 +331,11 @@ me.say_hi()
 
 ### 🏆 Achievement Highlights
 
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="25" /> **247+** LeetCode Problems Solved  
-<img src="https://user-images.githubusercontent.com/74038190/216122003-15d1a87e-8ec4-404f-87b2-73a1f7c7e1ef.png" width="25" /> **Top 18%** on LeetCode Global  
-<img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab21527732.png" width="25" /> **Multiple Hackathon** Winner  
-<img src="https://user-images.githubusercontent.com/74038190/216121919-77b7a98a-e0c4-43d2-bc9e-c9086bfcb40b.png" width="25" /> **Open Source** Contributor  
-<img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf0c-d2a4-419e-88a9-42f33d3d4c80.png" width="25" /> **Seeking MAANG** Opportunities  
+🎯 **500+** LeetCode Problems Solved  
+⭐ **Top 5%** on LeetCode India  
+🏅 **Multiple Hackathon** Winner  
+📚 **Open Source** Contributor  
+💼 **Seeking MAANG** Opportunities  
 
 </div>
 
