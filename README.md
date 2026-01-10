@@ -185,9 +185,6 @@ me.say_hi()
 
 <table>
 <tr>
-<td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/google-icon.svg" alt="Google Cloud" width="55" height="55" />
-<br>Google Cloud
 </td>
 <td align="center" width="100">
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55" />
@@ -255,7 +252,7 @@ me.say_hi()
 <br>CI/CD
 </td>
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" alt="GenAI" width="55" height="55" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="GenAI" width="55" height="55" />
 <br>GenAI
 </td>
 </tr>
