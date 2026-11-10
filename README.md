@@ -35,7 +35,7 @@ class RahulBalaji:
         self.name = "Rahul Balaji"
         self.role = "Software Development Engineer"
         self.location = "Vellore, Tamil Nadu, India 🇮🇳"
-        self.education = "B.Tech in Computer Science"
+        self.education = "M.Tech in Computer Science & Engineering"
         self.languages = ["Python", "Java", "C++", "JavaScript"]
         self.interests = ["DSA", "AI/ML", "Web Dev", "Cloud"]
         
